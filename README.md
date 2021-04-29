@@ -1,1 +1,2 @@
-# Simple_Sticky_Notes
+## Simple_Sticky_Notes
+### A very simple sticky notes made in Python
